@@ -1,0 +1,6 @@
+To work on this project, you will need the following tools:
+
+- Python 3.9 (or any compatible version)
+- NumPy 1.21.4 (or any compatible version)
+- JupyterLab (for interactive data analysis)
+- Visual Studio Code (or your preferred code editor)
